@@ -67,11 +67,8 @@ HOURS
 
 13 UTC: 🥁 drum time
 
-## About
-
-This is a basic implementation of a ["Gnome Shell Extension"](https://extensions.gnome.org) that displays the current hour as an emoji based remix of the "Seasonal clock" that removed temporally loaded emojis and seasons.
-
-I am testing it at the moment and have not yet submitted it to the gnome extensions.
+## Goals
+I hope to have this extension accepted to the gnome extensions library.
 
 ## Development
 2024-12-15 Inital fork. Edited seasonal hours.
