@@ -1,6 +1,7 @@
 # ATEM Clock Gnome Shell Extension
 Based on python code I wrote, inspired by [johanbove/seasonalclock-gnome ](https://github.com/johanbove/seasonalclock-gnome) which was inspired by <https://seasonalclock.org>.
 
+Fork hostd at https://github.com/JThomasKern/atemclock-gnome/tree/main
 I loved the idea of the seasonal clock, which makes synchronised hours around the world by being linked to UTC.
 
 But I am far from England, France, Germany, etc and the further away from UTC you go, the more evident the local temporality of many of the emojis. So this clock removes those.
