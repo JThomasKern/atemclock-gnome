@@ -12,38 +12,60 @@ Seasonal Clock: spring/summer/fall/winter
 ATEM Clock: 🌿 LEAFENING / 🪜 LADDERNING / 🫎 MOOSENING / 🪁 KITENING
 
 HOURS
-🌿 LEAFENING
-14 UTC: 🌿 leaf hour 
-15 UTC: 🌼 blossom hour 
+
+## 🌿 LEAFENING
+
+14 UTC: 🌿 leaf time
+
+15 UTC: 🌼 blossom time
+
 16 UTC: 🪵 log error 
-17 UTC: 🍇 grapes hour 
-18 UTC: 🌳 tree hour 
-19 UTC: 🍓 strawberry hour 
+
+17 UTC: 🍇 grapes time
+
+18 UTC: 🌳 tree time
+
+19 UTC: 🍓 strawberry time
 
 
-🪜 LADDERNING
-20 UTC: 🪜 ladder hour 
-21 UTC: 🫙 jar hour 
-22 UTC: 🗝️ key hour 
-23 UTC: 🥄 spoon hour 
-00 UTC: 🪑 chair hour 
-01 UTC: 🥣 bowl hour
+## 🪜 LADDERNING
+20 UTC: 🪜 ladder time
 
-🫎 MOOSENING
-02 UTC: 🫎 moose hour 
-03 UTC: 🦆 duck hour 
-04 UTC: 🐝 bee hour 
-05 UTC: 🐍 snake hour 
-06 UTC: 🐟 fish hour 
-07 UTC: 🪼 jellyfish hour 
+21 UTC: 🫙 jar time
 
-🪁 KITENING
-08 UTC: 🪁 kite hour 
-09 UTC: 🧸 Teddy bear hour 
-10 UTC: 🎈🪼 balloon hour 
-11 UTC: 🧮 abacus hour 
-12 UTC: 🎻 fiddle hour 
-13 UTC: 🥁 drum hour 
+22 UTC: 🗝️ key time
+
+23 UTC: 🥄 spoon time
+
+00 UTC: 🪑 chair time
+
+01 UTC: 🥣 bowl time
+
+## 🫎 MOOSENING
+02 UTC: 🫎 moose time
+
+03 UTC: 🦆 duck time
+
+04 UTC: 🐝 bee time
+
+05 UTC: 🦎 snake time
+
+06 UTC: 🐟 fish time
+
+07 UTC: 🪼 jellyfish time
+
+## 🪁 KITENING
+08 UTC: 🪁 kite time
+
+09 UTC: 🧸 Teddy bear time
+
+10 UTC: 🎈🪼 balloon time
+
+11 UTC: 🧮 abacus time
+
+12 UTC: 🎻 fiddle time
+
+13 UTC: 🥁 drum time
 
 ## About
 
