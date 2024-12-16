@@ -11,9 +11,9 @@ Seasonal Clock: spring/summer/fall/winter
 
 ATEM Clock: 🌿 LEAFENING / 🪜 LADDERNING / 🫎 MOOSENING / 🪁 KITENING
 
-HOURS
+## HOURS
 
-## 🌿 LEAFENING
+### 🌿 LEAFENING
 
 14 UTC: 🌿 leaf time
 
@@ -28,7 +28,7 @@ HOURS
 19 UTC: 🍓 strawberry time
 
 
-## 🪜 LADDERNING
+### 🪜 LADDERNING
 20 UTC: 🪜 ladder time
 
 21 UTC: 🫙 jar time
@@ -41,7 +41,7 @@ HOURS
 
 01 UTC: 🥣 bowl time
 
-## 🫎 MOOSENING
+### 🫎 MOOSENING
 02 UTC: 🫎 moose time
 
 03 UTC: 🦆 duck time
@@ -54,7 +54,7 @@ HOURS
 
 07 UTC: 🪼 jellyfish time
 
-## 🪁 KITENING
+### 🪁 KITENING
 08 UTC: 🪁 kite time
 
 09 UTC: 🧸 Teddy bear time
